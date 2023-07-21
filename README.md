@@ -5,25 +5,25 @@
 
 
 ### Website Preview
-###HOME PAGE
+HOME PAGE
 ![Screenshot (94)](https://github.com/pankaj996699/My-Portfolio/assets/110814495/5e80ac8c-290a-488b-aafd-5d0e1a578cf7)
 
-###ABOUT PAGE
+ABOUT PAGE
 ![Screenshot (95)](https://github.com/pankaj996699/My-Portfolio/assets/110814495/2f8c1eaa-67b3-445a-98df-e8e6d910e13c)
 
-###SKILLS
+SKILLS
 ![Screenshot (96)](https://github.com/pankaj996699/My-Portfolio/assets/110814495/68e1909f-cae6-413e-97b4-e5a26e67e82e)
 
-###PROJECTS
+PROJECTS
 ![Screenshot (97)](https://github.com/pankaj996699/My-Portfolio/assets/110814495/2db10600-4f1e-4152-a111-ff49b56a2f78)
 
-###INTERNSHIPS
+INTERNSHIPS
 ![Screenshot (98)](https://github.com/pankaj996699/My-Portfolio/assets/110814495/4f307861-bd7e-4a09-970c-420dfc35cc9e)
 
-###CERTIFICATIONS
+CERTIFICATIONS
 ![Screenshot (99)](https://github.com/pankaj996699/My-Portfolio/assets/110814495/94cac18b-eecc-4d75-b3ef-8dfcea2eb687)
 
-###CONTACT
+CONTACT
 ![Screenshot (100)](https://github.com/pankaj996699/My-Portfolio/assets/110814495/31f284a0-c6d1-40fb-920f-b276d9e3718b)
 
 
