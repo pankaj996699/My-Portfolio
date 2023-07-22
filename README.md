@@ -38,7 +38,7 @@ CONTACT
 ## Features 📋
 ⚡ Responsive\
 ⚡ Valid HTML5 & CSS3\
-⚡ Typing animation using `Typed.js`\
+⚡ Scroll bar using `javascript`\
 ⚡ Easy to modify
 
 
@@ -56,8 +56,7 @@ To view a live example, *[click here](https://pankaj996699.github.io/My-Portfoli
 
 ## Tools Used 🛠
 * [<b>GitHub Pages</b>]- To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>] - A CSS framework .
-* [<b>Typed.js</b>]- JavaScript Library
+
 
 
 
